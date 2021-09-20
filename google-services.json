@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785429571665",
+    "project_id": "taskapp-79739",
+    "storage_bucket": "taskapp-79739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785429571665:android:533ae27377db7483d07070",
+        "android_client_info": {
+          "package_name": "br.edu.ifma.sheduleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785429571665-pv0pldo7celm1gh4ij74mkf98qphp5bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLolg3LzEX5hcGpajd-TkbxzALznEZiFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785429571665-pv0pldo7celm1gh4ij74mkf98qphp5bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
